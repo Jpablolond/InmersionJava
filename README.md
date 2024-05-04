@@ -41,3 +41,27 @@ Si tienes alguna pregunta o sugerencia sobre este proyecto, no dudes en contacta
 - Celular/WhatsApp: +573113703239
 - Behance: [Juan P Publicidad](https://www.behance.net/juanppublicista)
 - Instagram: [@juanppublicista](https://www.instagram.com/juanppublicista/)
+
+
+## Datos para Usuarios
+
+### Ejecución del Proyecto
+1. Clone este repositorio en su máquina local.
+2. Abra el proyecto en su IDE preferido.
+3. Compile y ejecute el archivo `Main.java`.
+
+### Requisitos del Sistema
+- Java 8 o superior.
+- Sistema operativo compatible (Windows, Linux, macOS).
+
+### Uso del Proyecto
+- Después de ejecutar el proyecto, verá una secuencia de números del 1 al 5 en la consola.
+
+### Solución de Problemas
+- Si encuentra algún problema al ejecutar el proyecto, consulte la sección de problemas conocidos en este README o comuníquese con el autor del proyecto para obtener ayuda.
+
+### Contribuciones
+- Si desea contribuir a este proyecto, haga una solicitud de extracción con sus cambios propuestos.
+
+### Licencia
+Este proyecto está bajo la Licencia MIT. Consulte el archivo LICENSE para obtener más detalles.
